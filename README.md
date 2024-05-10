@@ -1,6 +1,6 @@
 ### Hi there 👋
-<h2 align="left">A correre e cagare ci si immerda I garretti 👨‍💻</h2>
-<h2 align="center">A Dios rogando y con el mazo dando👨‍💻</h2>
+<!--<h2 align="left">A correre e cagare ci si immerda I garretti 👨‍💻</h2>-->
+<h1 align="center">A Dios rogando y con el mazo dando👨‍💻</h1>
 
 <!--
 **Ibrahim227/Ibrahim227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
