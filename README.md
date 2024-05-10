@@ -1,7 +1,7 @@
 <h1 align="center">Cum hoc, ergo propter hoc👨‍💻</h1>
-<div align="center">
+<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Nova&pause=1000&color=8BEDF7&background=FBE4FF00&random=false&width=500&height=64&lines=Hi%2C+I'm+Ibrahim;Freelancer;Software+Engineer;Full-Stack Developer;Pentesting+Enthusiast;Bug+Bounty+Hunter;IT+Technician"/>
-</div>
+</p>
 
 ### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -12,7 +12,7 @@
 
 Here are some ideas to get you started:
 
-- I’m currently working on my portfolio project <a href="https://github.com/Ibrahim227/PixelPacker"</a>
+- I’m currently working on my portfolio project
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
