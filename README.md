@@ -1,4 +1,3 @@
-### Hi there 👋
 <!--<h2 align="left">A correre e cagare ci si immerda I garretti 👨‍💻</h2>-->
 <h1 align="center">A Dios rogando y con el mazo dando👨‍💻</h1>
 
