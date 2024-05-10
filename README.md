@@ -10,6 +10,10 @@
 <!--
 **Ibrahim227/Ibrahim227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<br>
+<div align="right">
+  <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="200px"/>
+</div>
 Here are some ideas to get you started:
 
 - I’m currently working on my portfolio project <a href="https://github.com/Ibrahim227/PixelPacker"</a>
