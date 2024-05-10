@@ -9,13 +9,21 @@
 
 ### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<p align="left"> <a href="https://twitter.com/msaniibrahim_" target="blank"><img src="https://img.shields.io/twitter/follow/msaniibrahim_?logo=twitter&style=for-the-badge" alt="msaniibrahim_" /></a> </p>
 
 <br>
 
-<p> Top GitHub Users in Niger</p>
+<p> Top GitHub Users in Niger:</p>
 
-[![committers.top badge](https://user-badge.committers.top/NIGER/Ibrahim227.svg)](https://user-badge.committers.top/NIGER/Ibrahim227)
+[![committers.top badge](https://user-badge.committers.top/niger/Ibrahim227.svg)](https://user-badge.committers.top/niger/Ibrahim227)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ibrahim227&theme=nightfox)](https://git.io/streak-stats)
+<br>
+<h2>Languages:</h2>
+<p>
+   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+</p>
 
 - I’m currently working on my portfolio project
 - 🌱 I’m currently learning ...
@@ -25,3 +33,10 @@
 - 📫 How to reach me: 
 - 😄 Pronouns: ?
 - ⚡ Fun fact: ...
+<br>
+
+<h3 align="left">Let's connect:</h3>
+<!--<p align="left"> <a href="https://twitter.com/msaniibrahim_" target="blank"><img src="https://img.shields.io/twitter/follow/msaniibrahim_?logo=twitter&style=for-the-badge" alt="msaniibrahim_" /></a> </p>-->
+
+<a href="https://www.linkedin.com/in/maman-sani-ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mamansaniibrahim" height="30" width="40" /></a>
+<a href="https://twitter.com/msaniibrahim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mamansaniibrahim" height="30" width="40" /></a>
