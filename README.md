@@ -4,6 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Nova&pause=1000&random=false&width=600&height=100&lines=Hi+I'm+Ibrahim+%F0%9F%87%B3%F0%9F%87%AA;%2B%2BSoftware+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%2B%2BFull-Stack+Developer+%3C%2F%3E;%2B%2BFreelancer+%F0%9F%86%93;%2B%2BPentesting+Enthusiast+%F0%9F%94%90;%2B%2BBug+Bounty+Hunter+%F0%9F%95%B7%EF%B8%8F;%2B%2BIT+Technician+%F0%9F%93%A1%F0%9F%93%B6%F0%9F%87%AE%F0%9F%87%B9;%2B%2BResearcher+%F0%9F%93%9A%F0%9F%94%8D">
 </p>
 
+<br>
+
+[![Beacons.ai Profile](https://img.shields.io/badge/About_Me-cobbysefah-9cf?style=for-the-badge&logo=beacons&color=blue)](https://beacons.ai/cobbysefahsolomon)
 
 <br>
 
