@@ -11,6 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/msaniibrahim_" target="blank"><img src="https://img.shields.io/twitter/follow/msaniibrahim_?logo=twitter&style=for-the-badge" alt="msaniibrahim_" /></a> </p>
 
+<br>
+
+<p> Top GitHub Users in Niger</p>
+
+[![committers.top badge](https://user-badge.committers.top/NIGER/Ibrahim227.svg)](https://user-badge.committers.top/NIGER/Ibrahim227)
 
 - I’m currently working on my portfolio project
 - 🌱 I’m currently learning ...
