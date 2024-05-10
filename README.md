@@ -6,8 +6,6 @@
 
 <br>
 
-[![Beacons.ai Profile](https://img.shields.io/badge/About_Me-cobbysefah-9cf?style=for-the-badge&logo=beacons&color=blue)](https://beacons.ai/cobbysefahsolomon)
-
 <br>
 
 ### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
