@@ -1,6 +1,6 @@
 <h1 align="center">Don't reinvent the wheel👨‍💻</h1>
 
-## <picture><img src = "https://github.com/Ibrahim227/0xabdulkhalid/blob/main/assets/mdImages/about.gif.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <!--
 **Ibrahim227/Ibrahim227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
