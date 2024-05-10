@@ -1,4 +1,5 @@
-<h1 align="center">Don't reinvent the wheel👨‍💻</h1>
+<h1 align="center"><b>Hi, I'm Ibrahim </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="left">Don't reinvent the wheel👨‍💻</h3>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -16,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2><script async src="https://www.googletagmanager.com/gtag/js?id=UA-133429264-1"></script></h2>
