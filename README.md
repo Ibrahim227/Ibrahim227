@@ -1,14 +1,15 @@
-<h1 align="center"><b>Hi, I'm Ibrahim </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<br><h3 align="left">Don't reinvent the wheel👨‍💻</h3>
+<h1 align="center">Don't reinvent the wheel👨‍💻</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Nova&pause=1000&color=8BEDF7&background=FBE4FF00&random=false&width=500&height=64&lines=Hi%2C+I'm+Ibrahim;Freelancer;Software+Engineer;Full-Stack Developer;Pentesting+Enthusiast;Bug+Bounty+Hunter;IT+Technician" alt="Headline"/>
+</div>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
+### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <!--
 **Ibrahim227/Ibrahim227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- I’m currently working on my portfolio project <a href="https://github.com/Ibrahim227/PixelPacker"</a>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
