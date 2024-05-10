@@ -4,6 +4,9 @@
 </div>
 
 ### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<p align="left"> <a href="https://twitter.com/msaniibrahim_" target="blank"><img src="https://img.shields.io/twitter/follow/msaniibrahim_?logo=twitter&style=for-the-badge" alt="msaniibrahim_" /></a> </p>
+
 <!--
 **Ibrahim227/Ibrahim227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
