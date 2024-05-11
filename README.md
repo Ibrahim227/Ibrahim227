@@ -18,30 +18,12 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ibrahim227&theme=nightfox)](https://git.io/streak-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim227)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-<h2>Languages:</h2>
-<p>
-   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="35"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="shell" width="40" height="40"/>
-  </a>
-</p>
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim227&langs_count=8&hide_progress=true)
+<br>
 
 ![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim227&show_icons=true&theme=transparent)
+
 
 - I’m currently working on my portfolio project
 - 🌱 I’m currently learning ...
@@ -56,3 +38,4 @@
 <h3 align="left">Let's connect:</h3>
 <a href="https://www.linkedin.com/in/maman-sani-ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mamansaniibrahim" height="30" width="40" /></a>
 <a href="https://twitter.com/msaniibrahim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mamansaniibrahim" height="30" width="40" /></a>
+<a href="https://github.com/Ibrahim227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mamansaniibrahim" height="30" width="40" /></a>
