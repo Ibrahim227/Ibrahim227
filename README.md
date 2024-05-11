@@ -28,14 +28,14 @@
 - I’m currently working on my portfolio project [**PixelPacker**](https://github.com/Ibrahim227/PixelPacker/blob/master/README.md)
 - 📫 How to reach me: **mamansani.ibrahim01@gmail.com**
 - ⚡ Fun fact: It’s all 0’s and 1’s 
-- 
+<br>
+
 <h3 align="left">Let's connect ❤️:</h3>
 <a href="https://www.linkedin.com/in/maman-sani-ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mamansaniibrahim" height="30" width="40" /></a>
 <a href="https://twitter.com/msaniibrahim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mamansaniibrahim" height="30" width="40" /></a>
 <a href="https://github.com/Ibrahim227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mamansaniibrahim" height="30" width="40" /></a>
 
 
-<br>
 <br>
 
 <p>
