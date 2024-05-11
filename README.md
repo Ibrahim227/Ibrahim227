@@ -35,7 +35,7 @@
 </p>
 
 <p>
-  <img src="https://tenor.com/view/cyberpunk-hacker-gif-5648648?utm_source=share-button&utm_medium=Social&utm_content=pinterest" width="250" align="right">
+  <img src="https://media1.tenor.com/m/i8lIzIlzeHoAAAAC/cyberpunk-hacker.gif" width="250" align="right">
 </p>
 <br>
 
