@@ -40,7 +40,7 @@
 <br>
 
 <p>
-  <img src="https://i.pinimg.com/originals/ef/7a/42/ef7a420440306ae74ef664f2df513851.gif" align="center" width="250px">
+  <img src="https://i.pinimg.com/originals/ef/7a/42/ef7a420440306ae74ef664f2df513851.gif" align="left" width="250px">
 </p>
 
 <p>
