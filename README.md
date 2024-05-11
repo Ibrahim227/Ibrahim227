@@ -25,8 +25,7 @@
 ![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim227&show_icons=true&theme=transparent)
 
 
-- I’m currently working on my portfolio project [**PixelPacker**](https://github.com/Ibrahim227/PixelPacker)
-- 🤔 I’m looking for help with ...
+- I’m currently working on my portfolio project [**PixelPacker**](https://github.com/Ibrahim227/https://github.com/Ibrahim227/PixelPacker/blob/master/README.md)
 - 📫 How to reach me: **mamansani.ibrahim01@gmail.com**
 - ⚡ Fun fact: It’s all 0’s and 1’s 
 - 
