@@ -31,7 +31,7 @@
 - ⚡ Fun fact: It’s all 0’s and 1’s 
 - 
 <p>
-  <img src="https://i.pinimg.com/originals/ef/7a/42/ef7a420440306ae74ef664f2df513851.gif" align="center" width="100px">
+  <img src="https://i.pinimg.com/originals/ef/7a/42/ef7a420440306ae74ef664f2df513851.gif" align="center" width="200px">
 </p>
 <br>
 
