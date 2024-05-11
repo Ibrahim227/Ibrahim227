@@ -40,7 +40,7 @@
 <br>
 
 <p>
-  <img src="https://i.pinimg.com/originals/ef/7a/42/ef7a420440306ae74ef664f2df513851.gif" align="left" width="250px">
+  <img src="https://i.pinimg.com/originals/ef/7a/42/ef7a420440306ae74ef664f2df513851.gif" align="left" width="250px" height="300">
 </p>
 
 <p>
@@ -48,5 +48,5 @@
 </p>
 
 <p>
-  <img src="https://i.pinimg.com/originals/87/0e/2b/870e2b603561af91cd073ab6d2679ff8.gif" width="300" align="center">
+  <img src="https://i.pinimg.com/originals/87/0e/2b/870e2b603561af91cd073ab6d2679ff8.gif" width="330" align="center" height="300">
 </p>
