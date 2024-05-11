@@ -46,5 +46,7 @@
 <p>
   <img src="https://media1.tenor.com/m/i8lIzIlzeHoAAAAC/cyberpunk-hacker.gif" width="250" align="right">
 </p>
-<br>
 
+<p>
+  <img src="https://i.pinimg.com/originals/87/0e/2b/870e2b603561af91cd073ab6d2679ff8.gif" width="250" align="center">
+</p>
