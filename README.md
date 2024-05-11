@@ -18,6 +18,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ibrahim227&theme=nightfox)](https://git.io/streak-stats)
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim227)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 <h2>Languages:</h2>
 <p>
    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
@@ -35,9 +38,10 @@
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="shell" width="40" height="40"/>
   </a>
-  
-  
 </p>
+-->
+
+![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim227&show_icons=true&theme=transparent)
 
 - I’m currently working on my portfolio project
 - 🌱 I’m currently learning ...
