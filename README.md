@@ -39,7 +39,7 @@
 <br>
 
 <p>
-  <img src="https://i.pinimg.com/originals/ef/7a/42/ef7a420440306ae74ef664f2df513851.gif" align="left" width="250px" height="300">
+  <img src="https://i.pinimg.com/originals/ef/7a/42/ef7a420440306ae74ef664f2df513851.gif" align="left" width="250px" height="290">
 </p>
 
 <p>
