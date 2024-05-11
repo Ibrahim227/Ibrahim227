@@ -33,6 +33,10 @@
 <p>
   <img src="https://i.pinimg.com/originals/ef/7a/42/ef7a420440306ae74ef664f2df513851.gif" align="center" width="500px">
 </p>
+
+<p>
+  <img src="https://tenor.com/view/cyberpunk-hacker-gif-5648648?utm_source=share-button&utm_medium=Social&utm_content=pinterest" width="500" align="right">
+</p>
 <br>
 
 <h3 align="left">Let's connect ❤️:</h3>
