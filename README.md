@@ -25,14 +25,14 @@
 ![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim227&show_icons=true&theme=transparent)
 
 
-- I’m currently working on my portfolio project
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- I’m currently working on my portfolio project [**PixelPacker**](https://github.com/Ibrahim227/PixelPacker)
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ?
-- ⚡ Fun fact: ...
+- 📫 How to reach me: **mamansani.ibrahim01@gmail.com**
+- ⚡ Fun fact: It’s all 0’s and 1’s 
+- 
+<p>
+  <img src="https://i.pinimg.com/originals/ef/7a/42/ef7a420440306ae74ef664f2df513851.gif" align="right" width="50px">
+</p>
 <br>
 
 <h3 align="left">Let's connect ❤️:</h3>
