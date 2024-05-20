@@ -17,7 +17,8 @@
 <br>
 <p>GitHub Streak:</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ibrahim227)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ibrahim227&theme=nightfox)](https://git.io/streak-stats)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim227&langs_count=8&hide_progress=true)
 <br>
