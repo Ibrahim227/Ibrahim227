@@ -29,7 +29,6 @@
 - 📫 How to reach me: **mamansani.ibrahim01@gmail.com**
 - ⚡ Fun fact: It’s all 0’s and 1’s 
 <br>
-<br>
 
 <h4 align="left">Projects</h4>
 <br>
