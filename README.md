@@ -25,7 +25,7 @@
 ![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim227&show_icons=true&theme=transparent)
 
 <br>
-<h4 align="left">Projects</h4>
+<h2 align="left">Projects</h2>
 
 - Coalition Technologies Front End Developer Challenge: <a href="https://ibrahim227.github.io/recruit-test/">Link</a> | <a href="https://github.com/ibrahim27/recruit-test/">Repo</a>
 - I’m currently working on my portfolio project [**PixelPacker**](https://github.com/Ibrahim227/PixelPacker/blob/master/README.md)
