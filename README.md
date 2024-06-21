@@ -10,14 +10,13 @@
 ### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
-<hr>
+
 <p> Top GitHub Users in Niger:</p>
 
 [![committers.top badge](https://user-badge.committers.top/niger/Ibrahim227.svg)](https://user-badge.committers.top/niger/Ibrahim227)
 <hr>
 
 <p>HackerOne Profile</p>
-<hr>
 <p>Bugcrowd Profile</p>
 <hr>
 
@@ -48,7 +47,6 @@
 <a href="https://github.com/Ibrahim227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mamansaniibrahim" height="30" width="40" /></a>
 <hr>
 
-<br>
 <br>
 <p>
   <img src="https://i.pinimg.com/originals/ef/7a/42/ef7a420440306ae74ef664f2df513851.gif" align="left" width="250px" height="270">
