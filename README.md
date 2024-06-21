@@ -10,17 +10,20 @@
 ### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
-
+<hr>
 <p> Top GitHub Users in Niger:</p>
 
 [![committers.top badge](https://user-badge.committers.top/niger/Ibrahim227.svg)](https://user-badge.committers.top/niger/Ibrahim227)
+<hr>
 
 <p>HackerOne Profile</p>
 <hr>
 <p>Bugcrowd Profile</p>
+<hr>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ibrahim227&theme=nightfox)](https://git.io/streak-stats)
 
+<hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim227&langs_count=8&hide_progress=true)
 <br>
@@ -28,18 +31,22 @@
 ![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim227&show_icons=true&theme=transparent)
 
 <br>
+<hr>
+
 <h2 align="left">Projects</h2>
 
 - Coalition Technologies Front End Developer Challenge: <a href="https://ibrahim227.github.io/recruit-test/">Link</a> | <a href="https://github.com/ibrahim27/recruit-test/">Repo</a>
 - I’m currently working on my portfolio project [**PixelPacker**](https://github.com/Ibrahim227/PixelPacker/blob/master/README.md)
 - 📫 How to reach me: **mamansani.ibrahim01@gmail.com**
 - ⚡ Fun fact: It’s all 0’s and 1’s 
-<br>
+<hr>
+
 
 <h3 align="left">Let's connect ❤️:</h3>
 <a href="https://www.linkedin.com/in/maman-sani-ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mamansaniibrahim" height="30" width="40" /></a>
 <a href="https://twitter.com/msaniibrahim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mamansaniibrahim" height="30" width="40" /></a>
 <a href="https://github.com/Ibrahim227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mamansaniibrahim" height="30" width="40" /></a>
+<hr>
 
 <br>
 <br>
