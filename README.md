@@ -15,6 +15,9 @@
 
 [![committers.top badge](https://user-badge.committers.top/niger/Ibrahim227.svg)](https://user-badge.committers.top/niger/Ibrahim227)
 
+<p>HackerOne Profile</p>
+<hr>
+<p>Bugcrowd Profile</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ibrahim227&theme=nightfox)](https://git.io/streak-stats)
 
