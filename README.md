@@ -30,8 +30,6 @@
 ![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim227&show_icons=true&theme=transparent)
 
 <br>
-<hr>
-
 <h2 align="left">Projects</h2>
 
 - Coalition Technologies Front End Developer Challenge: <a href="https://ibrahim227.github.io/recruit-test/">Link</a> | <a href="https://github.com/ibrahim27/recruit-test/">Repo</a>
