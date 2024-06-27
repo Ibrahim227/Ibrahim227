@@ -33,7 +33,7 @@
 <h2 align="left">Projects</h2>
 
 - Coalition Technologies Front End Developer Challenge: Convert an Adobe XD Template to HTML/CSS code and JS to make an API call to populate some parts of the UI and generate a graph: <a href="https://ibrahim227.github.io/recruit-test/">Link</a> | <a href="https://github.com/ibrahim27/recruit-test/">Repo</a>
-- I’m currently working on a project [**PixelPacker**](https://github.com/Ibrahim227/PixelPacker/blob/master/README.md) an image compression Algorithm
+- I’m currently working on [**PixelPacker**](https://github.com/Ibrahim227/PixelPacker/blob/master/README.md) an image compression Algorithm
 - 📫 How to reach me: **mamansani.ibrahim01@gmail.com**
 - ⚡ Fun fact: It’s all 0’s and 1’s 
 <hr>
