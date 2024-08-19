@@ -32,7 +32,7 @@
 <br>
 <h2 align="left">Projects</h2>
 
-- My portfolio: <a href="https://ibrahim227.github.io/ibrahim.portfolio/" target="_blank">Link</a>
+- My portfolio : <a href="https://ibrahim227.github.io/ibrahim.portfolio/" target="_blank">Link</a>
 - Coalition Technologies Front End Developer Challenge: Convert an Adobe XD Template to HTML5, CSS3 and JS code to make an API call to populate some parts of the UI and generate the graph: <a href="https://ibrahim227.github.io/recruit-test/">Link</a> | <a href="https://github.com/ibrahim27/recruit-test/" target="_blank">Repo</a>
 - I’m currently working on [**PixelPacker**](https://github.com/Ibrahim227/PixelPacker/blob/master/README.md) an image compression Algorithm
 - 📫 How to reach me: **mamansani.ibrahim01@gmail.com**
