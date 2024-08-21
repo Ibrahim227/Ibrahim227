@@ -44,17 +44,3 @@
 <a href="https://www.linkedin.com/in/maman-sani-ibrahim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mamansaniibrahim" height="30" width="40" /></a>
 <a href="https://twitter.com/msaniibrahim_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mamansaniibrahim" height="30" width="40" /></a>
 <a href="https://github.com/Ibrahim227" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mamansaniibrahim" height="30" width="40" /></a>
-<hr>
-
-<br>
-<p>
-  <img src="https://i.pinimg.com/originals/ef/7a/42/ef7a420440306ae74ef664f2df513851.gif" align="left" width="250px" height="270">
-</p>
-
-<p>
-  <img src="https://media1.tenor.com/m/i8lIzIlzeHoAAAAC/cyberpunk-hacker.gif" width="250" align="right" height="300">
-</p>
-
-<p>
-  <img src="https://i.pinimg.com/originals/87/0e/2b/870e2b603561af91cd073ab6d2679ff8.gif" width="330" align="center" height="300">
-</p>
